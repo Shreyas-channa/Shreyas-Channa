@@ -1,3 +1,4 @@
+![logo](https://github.com/Shreyas-channa/Shreyas-Channa/blob/main/SHREYAS%20CHANNA.jpg)
 <h1 align="center">Hi There! 👋, I'm Shreyas Channa</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
